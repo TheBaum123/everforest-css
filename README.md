@@ -1,6 +1,6 @@
 # Everforest CSS
 
-This repository is a port of the vim colorscheme [Everforest](https://github.com/sainnhe/everforest) to CSS custom properties.
+This repository is a port of the Vim color scheme [Everforest](https://github.com/sainnhe/everforest) to CSS custom properties. The original [Everforest](https://github.com/sainnhe/everforest) color scheme was made by [sainhe](https://github.com/sainnhe).
 
 ## Color Schemes in this repository
 
