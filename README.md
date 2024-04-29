@@ -10,7 +10,7 @@ This repository is a port of the vim colorscheme [Everforest](https://github.com
 | 𝐌𝐞𝐝𝐢𝐮𝐦 | ![medium-dark](https://user-images.githubusercontent.com/58662350/214382352-cd7a4f63-e6ef-4575-82c0-a8b72aa37c0c.png) | ![medium-light](https://user-images.githubusercontent.com/58662350/214382392-57b58f0a-f5e6-4d09-abcb-1da7f2100268.png) |
 |  𝐒𝐨𝐟𝐭  |  ![soft-dark](https://user-images.githubusercontent.com/58662350/214382429-52e16e08-7c92-4f54-b83e-c2a0c2b4bb3d.png)  |  ![soft-light](https://user-images.githubusercontent.com/58662350/214382443-e7202629-5caf-4f9e-9444-512e2a21de5f.png)  |
 
-So far both the light and dark version of the medium version of Everforest are done.
+So far the light medium version as well as oll of the dark versions of the theme are done.
 
 ## Contributing
 
